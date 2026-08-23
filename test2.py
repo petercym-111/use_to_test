@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-=======
+
 # nigess
->>>>>>> feature/test
+
